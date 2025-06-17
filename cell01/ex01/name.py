@@ -1,4 +1,4 @@
-fist_name = "kanlaya"
+first_name = "kanlaya"
 last_name = "sripalang"
-whole_name = fist_name + " " + last_name
+whole_name = first_name + " " + last_name
 print(whole_name)
